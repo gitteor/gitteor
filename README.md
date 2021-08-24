@@ -6,7 +6,7 @@
 - Business Model development
 
 ---
-### Languages and Tools 
+### Languages and Tools :computer:
 ## 
 
 [![Badge](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
