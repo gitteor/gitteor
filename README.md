@@ -2,7 +2,7 @@
 ### Interest ♥
 ## 
 - Deep Learning
-- GAN (Generative Adversarial Network) CNN (Convolutional. Neural Network)
+- GAN (Generative Adversarial Network), CNN (Convolutional. Neural Network)
 - Business Model development
 
 ---
