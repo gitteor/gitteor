@@ -1,12 +1,15 @@
+
+### 오늘도 즐거운 프로그래밍
 ---
-### Interest ♥
+### Interest
 ## 
 - Deep Learning
 - GAN (Generative Adversarial Network), CNN (Convolutional. Neural Network)
 - Business Model development
+- Bio technology, Brain engineering, Triathlon, Game development
 
 ---
-### Languages and Tools :computer:
+### Languages and Tools
 ## 
 
 [![Badge](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
