@@ -4,7 +4,8 @@
 ### Interest
 ## 
 - Deep Learning
-- GAN (Generative Adversarial Network), CNN (Convolutional. Neural Network)
+- Machine Learning
+- GAN (Generative Adversarial Network)
 - Business Model development
 - Bio technology, Brain engineering, Triathlon, Game development
 
