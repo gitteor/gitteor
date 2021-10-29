@@ -1,16 +1,12 @@
-
-### 오늘도 즐거운 프로그래밍
----
+##
 ### Interest
-## 
 - Deep Learning
 - Machine Learning
 - Business Model development
 - Bio technology, Brain engineering, Triathlon, Game development
 
----
+##
 ### Languages and Tools
-## 
 
 [![Badge](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![Badge](http://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]()
@@ -28,4 +24,4 @@
 [![Badge](http://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white)]()
 [![Badge](http://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)]()
 
----
+##
