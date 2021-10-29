@@ -2,8 +2,8 @@
 ### Interest
 - Deep Learning
 - Machine Learning
-- Business Model development
-- Bio technology, Brain engineering, Triathlon, Game development
+- Business Model Development
+- Bio Technology, Brain Engineering, Triathlon, Game Development
 
 ##
 ### Languages and Tools
