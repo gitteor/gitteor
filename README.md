@@ -1,8 +1,7 @@
 ##
 ### Interest
 - Deep Learning
-- Machine Learning
-- Business Model Development
-- Bio Technology, Brain Engineering, Triathlon, Game Development
+- Generative Model
+- DevOps, Bio Technology, Brain Engineering, Game Development, Triathlon, Ecology
 
 ##
